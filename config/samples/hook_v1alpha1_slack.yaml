@@ -1,0 +1,7 @@
+apiVersion: hook.overconfigured.dev/v1alpha1
+kind: Slack
+metadata:
+  name: slack-sample
+spec:
+  # Add fields here
+  foo: bar
